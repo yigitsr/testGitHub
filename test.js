@@ -31,3 +31,6 @@ for (let i = n; i > 0; i--) {
     str += "\n";
 }
 console.log(str);
+
+
+console.log('test')
